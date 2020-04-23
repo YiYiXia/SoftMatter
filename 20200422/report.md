@@ -14,7 +14,7 @@
 <div align=center>
  <img width="300" height="300" src="https://github.com/YiYiXia/SoftMatter/blob/master/20200422/1.gif">
 </div>
-活性粒子之间的距离的确有所增加，分散的比较开。</br>
+从结果上看，活性粒子之间的距离有所增加，分散的比较开。</br></br>
 
 2.模拟中的一个问题</br>
 当只针对一定角度范围内的活性粒子做Vicsek处理时，活性粒子会形成聚团，像鱼群一样集体转圈。</br>
