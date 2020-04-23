@@ -14,7 +14,7 @@
 <div align=center>
  <img width="300" height="300" src="https://github.com/YiYiXia/SoftMatter/blob/master/20200422/1.gif">
 </div>
-粒子之间的距离的确有所增加。</br>
+活性粒子之间的距离的确有所增加，分散的比较开。</br>
 
 2.模拟中的一个问题</br>
 当只针对一定角度范围内的活性粒子做Vicsek处理时，活性粒子会形成聚团，像鱼群一样集体转圈。</br>
@@ -36,5 +36,5 @@
 <div align=center>
  <img width="300" height="300" src="https://github.com/YiYiXia/SoftMatter/blob/master/20200422/5.gif">
 </div>
-从结果看，这的确能缓解一部分空洞的出现，但这也可能会有负面影响，即温度如果过高，活性粒子驱动力的作用效果似乎就会减弱。</br>
-不知道还有什么其他办法可以解决空洞这个问题？
+从结果看，这的确能缓解一部分空洞的出现，但这也可能会有负面的影响，即温度如果过高，vicsek的作用效果似乎就会减弱。</br>
+不知道还有什么其他办法可以解决空洞这个问题？(改变质量或者流体粒子密度这类的方法我还没有试)</br>
